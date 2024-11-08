@@ -1,0 +1,18 @@
+name = 'Theme name'
+license = 'MIT'
+licenselink = ''
+description = 'Theme which implements a nix modules options search machine.'
+
+# The home page of the theme, where the source can be found
+homepage = 'mipmip/hugo-theme-extranix-options-search'
+
+# If you have a running demo of the theme
+demosite = 'https://home-manager-options.extranix.com/'
+
+# Taxonomy terms
+tags = ['docs']
+features = ['fast JavaScript search engine', 'Made for Nix Modules System']
+
+[author]
+  name = 'Pim Snel'
+  homepage = 'extranix.com'
