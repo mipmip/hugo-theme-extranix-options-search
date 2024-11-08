@@ -1,6 +1,6 @@
 name = 'Theme name'
 license = 'MIT'
-licenselink = ''
+licenselink = 'https://github.com/mipmip/hugo-theme-extranix-options-search/blob/main/LICENSE'
 description = 'Theme which implements a nix modules options search machine.'
 
 # The home page of the theme, where the source can be found
